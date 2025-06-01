@@ -15,14 +15,8 @@ This is a fun and interactive **image-based slide puzzle game** built using **HT
 - 🔄 **Reset Button**  
   Instantly reshuffle the puzzle to start fresh.
 
-- 🖼️ **Image Selector**  
-  Choose from multiple images to play different puzzles.
-
 - 📱 **Responsive Design**  
   Play on any device — mobile, tablet, or desktop.
-
-- 🎨 **Smooth Animations & Hover Effects**  
-  Enhances the overall game experience with visual feedback.
 
 
 ## 🌐 Demo
@@ -34,7 +28,7 @@ This is a fun and interactive **image-based slide puzzle game** built using **HT
 
 - 🧱 **HTML5** – Markup structure  
 - 🎨 **CSS3** – Styling and responsiveness  
-- ⚙️ **JavaScript (ES6)** – Game logic and interactivity
+- ⚙️ **JavaScript** – Game logic and interactivity
 
 ## 📩 Contact
 
